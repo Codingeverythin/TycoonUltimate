@@ -1,4 +1,5 @@
-
+URL url = new URL("https://DropperTycoon.com/api/data");
+HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 import { useState, useEffect, useRef, useCallback } from "react";
 
 // ==================== CONSTANTS ====================
