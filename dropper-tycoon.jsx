@@ -1,4 +1,4 @@
-URL url = new URL("https://github.com/Codingeverythin");
+URL url = new URL(" https://codingeverythin.github.io/TycoonUltimate/");
 HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 import { useState, useEffect, useRef, useCallback } from "react";
 
