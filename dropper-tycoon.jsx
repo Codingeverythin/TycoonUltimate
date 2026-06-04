@@ -1,4 +1,4 @@
-URL url = new URL("https://DropperTycoon.com/api/data");
+URL url = new URL("https://github.com/Codingeverythin");
 HttpURLConnection conn = (HttpURLConnection) url.openConnection();
 import { useState, useEffect, useRef, useCallback } from "react";
 
